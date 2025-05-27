@@ -1,0 +1,12 @@
+[project]
+name = "trailer-yt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ffmpeg>=1.4",
+    "pytube>=15.0.0",
+    "youtube-dl>=2021.12.17",
+    "yt-dlp>=2025.5.22",
+]
